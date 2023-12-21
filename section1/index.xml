@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>section_1 on lean learning</title>
-    <link>https://leanlearning.com/section1/</link>
+    <link>https://kmltkc.de/section1/</link>
     <description>Recent content in section_1 on lean learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Dec 2023 12:17:22 +0100</lastBuildDate>
-    <atom:link href="https://leanlearning.com/section1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kmltkc.de/section1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post1</title>
-      <link>https://leanlearning.com/section1/post1/</link>
+      <link>https://kmltkc.de/section1/post1/</link>
       <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
-      <guid>https://leanlearning.com/section1/post1/</guid>
+      <guid>https://kmltkc.de/section1/post1/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     <item>
       <title>Post2</title>
-      <link>https://leanlearning.com/section1/post2/</link>
+      <link>https://kmltkc.de/section1/post2/</link>
       <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
-      <guid>https://leanlearning.com/section1/post2/</guid>
+      <guid>https://kmltkc.de/section1/post2/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
   </channel>
