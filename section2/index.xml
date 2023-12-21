@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>section_2 on lean learning</title>
+    <link>https://leanlearning.com/section2/</link>
+    <description>Recent content in section_2 on lean learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 15:08:17 +0100</lastBuildDate>
+    <atom:link href="https://leanlearning.com/section2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post3</title>
+      <link>https://leanlearning.com/section2/post3/</link>
+      <pubDate>Wed, 20 Dec 2023 15:08:17 +0100</pubDate>
+      <guid>https://leanlearning.com/section2/post3/</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+  </channel>
+</rss>
