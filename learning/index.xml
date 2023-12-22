@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>section_1 on lean learning</title>
-    <link>https://kmltkc.de/leanlearning/section1.html</link>
-    <description>Recent content in section_1 on lean learning</description>
+    <title>📚 learning on lean learning</title>
+    <link>https://kmltkc.de/leanlearning/learning.html</link>
+    <description>Recent content in 📚 learning on lean learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Dec 2023 12:17:22 +0100</lastBuildDate>
-    <atom:link href="https://kmltkc.de/leanlearning/section1/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kmltkc.de/leanlearning/learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Post1</title>
-      <link>https://kmltkc.de/leanlearning/section1/post1.html</link>
+      <title>learning 1</title>
+      <link>https://kmltkc.de/leanlearning/learning/learning_1.html</link>
       <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
-      <guid>https://kmltkc.de/leanlearning/section1/post1.html</guid>
+      <guid>https://kmltkc.de/leanlearning/learning/learning_1.html</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
     <item>
-      <title>Post2</title>
-      <link>https://kmltkc.de/leanlearning/section1/post2.html</link>
+      <title>learning 2</title>
+      <link>https://kmltkc.de/leanlearning/learning/learning_2.html</link>
       <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
-      <guid>https://kmltkc.de/leanlearning/section1/post2.html</guid>
+      <guid>https://kmltkc.de/leanlearning/learning/learning_2.html</guid>
+      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>learning 3</title>
+      <link>https://kmltkc.de/leanlearning/learning/learning_3.html</link>
+      <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
+      <guid>https://kmltkc.de/leanlearning/learning/learning_3.html</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
     </item>
   </channel>
