@@ -2,6 +2,29 @@
 @tailwind components;
 @tailwind utilities;
 
-div {
-  color: red;
+:root {
+  font-family: Roboto Mono;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #555555;
+  background-color: #fafafc;
+  font-size: 16px;
+}
+
+body {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px 30px;
+  --w: 1.7px;
+  background:
+    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
+      calc(0% + 30px) / var(--w) 100% no-repeat,
+    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
+      calc(25%) / var(--w) 100% no-repeat,
+    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
+      calc(50%) / var(--w) 100% no-repeat,
+    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
+      calc(75%) / var(--w) 100% no-repeat,
+    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
+      calc(100% - 30px) / var(--w) 100% no-repeat;
 }

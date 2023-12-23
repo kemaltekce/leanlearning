@@ -1,0 +1,29 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Pacifico&family=Roboto+Mono:wght@100;200;300;400;500;600;700;800;900&display=swap"
+    rel="stylesheet"
+  />
+  {{ $time := now }}
+  {{ $style := resources.Get "css/main.css" | postCSS
+    (dict "config" "./postcss.config.js")
+  }}
+  {{ if .Site.IsServer }}
+    {{ $style:= $style | resources.ExecuteAsTemplate (printf "style.%s.css" $time)
+      $time
+    }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+  {{ else }}
+    {{ $style := $style | minify | fingerprint | resources.PostCSS }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}" />
+  {{ end }}
+  <title>lean learning</title>
+</head>

@@ -1,0 +1,42 @@
+<div class="bg-[#DCE1FD] px-5 py-7 rounded-[7px] mt-20 mb-10">
+  <div class="text-3xl font-bold pb-2">lean learning method</div>
+  <div class="font-light">
+    the lele method consists of three main components.
+  </div>
+</div>
+<div
+  class="flex flex-col my-5 gap-11 mb-20 bg-[#F5F5F7] rounded-[7px] px-5 pt-7 pb-14"
+>
+  {{ range .Sections.ByWeight }}
+    <div class="py-3">
+      <div>
+        <div class="font-light">chapter {{ .Params.chapter }}</div>
+        <a
+          class="flex font-bold text-xl hover:bg-[#DCE1FD]"
+          href="{{ .RelPermalink }}"
+        >
+          <div class="grow">
+            {{ .Title }}
+          </div>
+          <img src="/image/arrow.svg" class="h-[1.5rem] self-end" alt="" />
+        </a>
+        <div
+          class="bg-gradient-to-r from-[#555555] from-[10px] to-[transparent] to-[10px] bg-[length:20px] h-[2px] mt-4"
+        ></div>
+      </div>
+      {{ range .Pages.ByWeight }}
+        <div class="py-4">
+          <a class="flex hover:bg-[#DCE1FD]" href="{{ .RelPermalink }}">
+            <div class="grow">
+              {{ .Title }}
+            </div>
+            <img src="/image/arrow.svg" class="h-[1.5rem] self-end" alt="" />
+          </a>
+        </div>
+        <div
+          class="bg-gradient-to-r from-[#555555] from-[10px] to-[transparent] to-[10px] bg-[length:20px] h-[2px]"
+        ></div>
+      {{ end }}
+    </div>
+  {{ end }}
+</div>

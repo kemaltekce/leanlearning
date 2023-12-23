@@ -1,0 +1,15 @@
+<div class="flex bg-[#DCE1FD] px-5 py-3 rounded-[17px] m-b-5">
+  <a class="grow font-[Pacifico] text-lg" href="/">lele</a>
+  <div class="flex gap-3 font-light items-center">
+    {{ range .Site.Sections.ByWeight }}
+      <a href="{{ .RelPermalink }}">
+        <div class="max-[550px]:hidden ">
+          {{ .Title }}
+        </div>
+        <div class="max-[550px]:visible min-[551px]:hidden">
+          {{ .Params.icon }}
+        </div>
+      </a>
+    {{ end }}
+  </div>
+</div>

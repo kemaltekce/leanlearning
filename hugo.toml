@@ -1,3 +1,6 @@
-baseURL = 'https://leanlearning.com/'
+baseURL = 'https://kmltkc.de/leanlearning'
 languageCode = 'en-us'
 title = 'lean learning'
+RelativeURLs=true
+CanonifyURLs=true
+UglyURLs=true

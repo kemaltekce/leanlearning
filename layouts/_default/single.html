@@ -1,0 +1,10 @@
+<html lang="en">
+  {{ partial "header.html" . }}
+  <body>
+    {{ partial "nav.html" . }}
+    <div class="mt-20">
+      <div class="text-3xl my-5">{{ .Title }}</div>
+      <div>{{ .Content }}</div>
+    </div>
+  </body>
+</html>

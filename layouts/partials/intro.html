@@ -1,0 +1,22 @@
+{{ $data := .Site.Data.intro }}
+
+
+<div class="bg-[#DCE1FD] p-5 rounded-[7px] h-[300px] my-10 relative">
+  <div class="font-bold">{{ $data.text }}</div>
+  <div class="font-light">{{ $data.subtext }}</div>
+  <!-- TODO change font style -->
+  <div class="text-8xl absolute bottom-0 right-0 p-[inherit] font-[Pacifico]">
+    {{ $data.heading }}
+  </div>
+</div>
+<!-- TODO add imgs -->
+<div
+  class="text-3xl max-[550px]:text-xl font-bold bg-[#F5F5F7] px-5 py-7 rounded-[7px] my-10"
+>
+  {{ range $index, $word := $data.words }}
+    <span>{{ $word.text }}.</span>
+  {{ end }}
+</div>
+<div class="my-10">
+  {{ $data.detail }}
+</div>
