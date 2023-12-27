@@ -1,16 +1,16 @@
-<div class="bg-[#DCE1FD] px-5 py-7 rounded-[7px] mt-20 mb-10">
+<div class="bg-[#DCE1FD] px-5 py-7 rounded-[3px] mt-20 mb-10">
   <div class="text-3xl font-bold pb-2">lean learning method</div>
   <div class="font-light">
     the lele method consists of three main components.
   </div>
 </div>
 <div
-  class="flex flex-col my-5 gap-11 mb-20 bg-[#F5F5F7] rounded-[7px] px-5 pt-7 pb-14"
+  class="flex flex-col my-5 gap-11 mb-20 bg-[#F5F5F7] rounded-[3px] px-5 pt-7 pb-14"
 >
   {{ range .Sections.ByWeight }}
     <div class="py-3">
       <div>
-        <div class="font-light">chapter {{ .Params.chapter }}</div>
+        <div class="font-light text-xs">chapter {{ .Params.chapter }}</div>
         <a
           class="flex font-bold text-xl hover:bg-[#DCE1FD]"
           href="{{ .RelPermalink }}"

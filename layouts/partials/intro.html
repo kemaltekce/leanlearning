@@ -1,7 +1,9 @@
 {{ $data := .Site.Data.intro }}
 
 
-<div class="bg-[#DCE1FD] p-5 rounded-[7px] h-[300px] my-10 relative">
+<div
+  class="bg-[#DCE1FD] bg-gradient-to-br from-[#DCE1FD] to-[#BBC4FA]  p-5 rounded-[3px] h-[300px] my-10 relative"
+>
   <div class="font-bold">{{ $data.text }}</div>
   <div class="font-light">{{ $data.subtext }}</div>
   <!-- TODO change font style -->
@@ -11,7 +13,7 @@
 </div>
 <!-- TODO add imgs -->
 <div
-  class="text-3xl max-[550px]:text-xl font-bold bg-[#F5F5F7] px-5 py-7 rounded-[7px] my-10"
+  class="text-3xl max-[550px]:text-xl font-bold bg-[#F5F5F7] px-5 py-7 rounded-[3px] my-10"
 >
   {{ range $index, $word := $data.words }}
     <span>{{ $word.text }}.</span>

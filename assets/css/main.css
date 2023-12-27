@@ -17,14 +17,14 @@ body {
   padding: 20px 30px;
   --w: 1.7px;
   background:
-    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
+    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
       calc(0% + 30px) / var(--w) 100% no-repeat,
-    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
-      calc(25%) / var(--w) 100% no-repeat,
-    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
+    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
+      calc(25% + 15px) / var(--w) 100% no-repeat,
+    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
       calc(50%) / var(--w) 100% no-repeat,
-    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
-      calc(75%) / var(--w) 100% no-repeat,
-    repeating-linear-gradient(to bottom, #e4e3e3 0 10px, transparent 10px 20px)
+    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
+      calc(75% - 15px) / var(--w) 100% no-repeat,
+    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
       calc(100% - 30px) / var(--w) 100% no-repeat;
 }
