@@ -1,15 +1,11 @@
-<div class="flex bg-[#DCE1FD] px-5 py-2 rounded-[7px] m-b-5">
-  <a class="grow font-[Pacifico] text-lg" href="/">lele</a>
-  <div class="flex gap-3 font-light items-center">
-    {{ range .Site.Sections.ByWeight }}
-      <a href="{{ .RelPermalink }}">
-        <div class="max-[550px]:hidden ">
-          {{ .Title }}
-        </div>
-        <div class="max-[550px]:visible min-[551px]:hidden">
-          {{ .Params.icon }}
-        </div>
-      </a>
-    {{ end }}
-  </div>
+<div
+  class="flex py-2 mx-[-30px] px-[30px] border-b-[1px] border-[#555555] sticky top-0 bg-[#fafafc] z-10"
+>
+  <a class="grow font-[Pacifico] text-xl" href="/">lele</a>
+  <a
+    class="text-[14px] flex gap-3 items-center bg-[#555555] rounded-[3px] text-[#fafafc] px-2"
+    href="{{ .Site.BaseURL }}/#content"
+  >
+    read
+  </a>
 </div>

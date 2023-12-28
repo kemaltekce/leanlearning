@@ -9,22 +9,27 @@
   color: #555555;
   background-color: #fafafc;
   font-size: 16px;
+  /* font-size: clamp(16px, 1.5vw, 30px); */
+  scroll-behavior: smooth;
 }
 
 body {
-  max-width: 800px;
   margin: auto;
-  padding: 20px 30px;
+  padding: 0 30px 0px 30px;
   --w: 1.7px;
   background:
-    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
+    repeating-linear-gradient(to bottom, #e7e7e7 0 5px, transparent 5px 10px)
       calc(0% + 30px) / var(--w) 100% no-repeat,
-    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
+    repeating-linear-gradient(to bottom, #e7e7e7 0 5px, transparent 5px 10px)
       calc(25% + 15px) / var(--w) 100% no-repeat,
-    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
+    repeating-linear-gradient(to bottom, #e7e7e7 0 5px, transparent 5px 10px)
       calc(50%) / var(--w) 100% no-repeat,
-    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
+    repeating-linear-gradient(to bottom, #e7e7e7 0 5px, transparent 5px 10px)
       calc(75% - 15px) / var(--w) 100% no-repeat,
-    repeating-linear-gradient(to bottom, #e4e3e3 0 5px, transparent 5px 10px)
+    repeating-linear-gradient(to bottom, #e7e7e7 0 5px, transparent 5px 10px)
       calc(100% - 30px) / var(--w) 100% no-repeat;
+}
+
+::selection {
+  background: #bbc4fa;
 }

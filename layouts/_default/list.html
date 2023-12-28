@@ -4,28 +4,32 @@
     {{ partial "nav.html" . }}
 
 
-    <div class="my-20 bg-[#F5F5F7] rounded-[3px] px-5 py-14">
+    <div class="my-20 bg-[#F5F5F7] rounded-[3px] px-5 pt-14 pb-20">
       <div>
         <div class="font-light text-xs">chapter {{ .Params.chapter }}</div>
         <div class="flex font-bold text-3xl">
           {{ .Title }}
         </div>
         <div
-          class="bg-gradient-to-r from-[#555555] from-[10px] to-[transparent] to-[10px] bg-[length:20px] h-[2px] mt-4"
+          class="bg-gradient-to-r from-[#555555] from-[10px] to-[#555555] to-[10px] bg-[length:20px] h-[2px] mt-4"
         ></div>
       </div>
       <div>{{ .Content }}</div>
       {{ range .Pages.ByWeight }}
-        <div class="py-4">
-          <a class="flex hover:bg-[#DCE1FD]" href="{{ .RelPermalink }}">
-            <div class="grow">
+        <div class="py-4 group hover:bg-[#BBC4FA]">
+          <a class="flex" href="{{ .RelPermalink }}">
+            <div class="grow group-hover:text-[#fafafc]">
               {{ .Title }}
             </div>
-            <img src="/image/arrow.svg" class="h-[1.5rem] self-end" alt="" />
+            <img
+              src="/image/arrow.svg"
+              class="h-[1.5rem] self-end group-hover:animate-bounce"
+              alt=""
+            />
           </a>
         </div>
         <div
-          class="bg-gradient-to-r from-[#555555] from-[10px] to-[transparent] to-[10px] bg-[length:20px] h-[2px]"
+          class="bg-gradient-to-r from-[#555555] from-[10px] to-[#555555] to-[10px] bg-[length:20px] h-[2px]"
         ></div>
       {{ end }}
     </div>
