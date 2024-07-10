@@ -7,20 +7,26 @@
       <div class="font-bold">{{ $data.text }}</div>
       <div class="font-light">{{ $data.subtext }}</div>
     </div>
-    <div
-      class="flex text-3xl max-[550px]:text-xl font-bold bg-[#F5F5F7] py-7 rounded-[3px] my-10 overflow-x-hidden"
+    <a
+      class="bg-[#555555] rounded-[3px] text-[#fafafc] px-2 py-1 my-7 hover:bg-[#BBC4FA]"
+      href="#content"
+    >
+      start reading
+    </a>
+    <!-- <div
+      class="flex text-3xl max-[550px]:text-xl font-bold bg-[#eeeef2] py-7 rounded-[3px] my-10 overflow-x-hidden"
     >
       <div class="flex animate-banner">
         {{ range $index, $word := $data.words }}
-          <div class="flex">
-            <span class="hover:text-[#AFAFB0]">{{ $word.text }}.</span>
-            <img src="/image/{{ $word.img }}.svg" alt="" class="pr-8" />
-          </div>
-        {{ end }}
+      <div class="flex">
+        <span class="hover:text-[#AFAFB0]">{{ $word.text }}.</span>
+        <img src="/image/{{ $word.img }}.svg" alt="" class="pr-8" />
       </div>
-    </div>
+    {{ end }}
+      </div>
+    </div> -->
   </div>
-  <div class="pb-10 max-w-[1000px]">
+  <div class="max-w-[1000px]">
     {{ $data.detail }}
   </div>
 </div>

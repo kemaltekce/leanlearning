@@ -1,50 +1,54 @@
 <div id="content"></div>
 <div
-  class="bg-gradient-to-br from-[#DCE1FD] to-[#BBC4FA] px-5 py-7 rounded-[3px] mt-[7rem]"
+  style="background-image:url('./image/purple_noise.png')"
+  class="bg-gradient-to-br from-[#DCE1FD] to-[#BBC4FA] px-5 py-7 rounded-[3px] mt-20 window-width"
 >
   <div class="text-3xl font-bold pb-2">lean learning method</div>
   <div class="font-light">
     the lele method consists of three main components.
   </div>
 </div>
-<div class="flex flex-col mt-5 gap-11 pt-7 pb-20">
+<!-- <div class="flex flex-col mt-5 gap-11 pt-7 pb-20"> -->
+<div class="flex flex-col mt-5 gap-3 pt-7 pb-20">
   {{ range .Sections.ByWeight }}
     <div class="pb-3">
-      <div class="group hover:bg-[#BBC4FA] hover:text-[#fafafc] pt-4">
+      <!-- <div class="group hover:bg-[#BBC4FA] hover:text-[#fafafc] pt-4"> -->
+      <div class="group hover:bg-[#BBC4FA] hover:text-[#fafafc] pt-4 pb-1">
         <div class="font-light text-xs">
           chapter
           {{ .Params.chapter }}
         </div>
-        <a class="flex font-bold text-xl" href="{{ .RelPermalink }}">
-          <div class="grow">
+        <a class="flex " href="{{ .RelPermalink }}">
+          <div class="grow_">
             {{ .Title }}
           </div>
-          <img
+          <!-- <img
             src="/image/arrow.svg"
             class="h-[1.5rem] self-end group-hover:animate-bounce"
             alt=""
-          />
+          /> -->
         </a>
-        <div
+        <!-- <div
           class="bg-gradient-to-r from-[#555555] from-[10px] to-[#555555] to-[10px] bg-[length:20px] h-[2px] mt-4"
-        ></div>
+        ></div> -->
       </div>
       {{ range .Pages.ByWeight }}
-        <div class="py-4 group hover:bg-[#BBC4FA]">
-          <a class="flex " href="{{ .RelPermalink }}">
-            <div class="grow group-hover:text-[#fafafc]">
+        <!-- <div class="py-4 group hover:bg-[#BBC4FA]"> -->
+        <div class="py-1 group hover:bg-[#BBC4FA]">
+          <a class="flex text-xl font-semibold" href="{{ .RelPermalink }}">
+            <div class="group-hover:text-[#fafafc]">
               {{ .Title }}
+              <img
+                src="/image/arrow.svg"
+                class="inline h-[1.5rem] self-end group-hover:animate-bounce bg-[#eeeef2]"
+                alt=""
+              />
             </div>
-            <img
-              src="/image/arrow.svg"
-              class="h-[1.5rem] self-end group-hover:animate-bounce"
-              alt=""
-            />
           </a>
         </div>
-        <div
+        <!-- <div
           class="bg-gradient-to-r from-[#555555] from-[10px] to-[#555555] to-[10px] bg-[length:20px] h-[2px]"
-        ></div>
+        ></div> -->
       {{ end }}
     </div>
   {{ end }}

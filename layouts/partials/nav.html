@@ -1,11 +1,64 @@
 <div
-  class="flex py-2 mx-[-30px] px-[30px] border-b-[1px] border-[#555555] sticky top-0 bg-[#fafafc] z-10"
+  class="flex py-2 window-width border-b-[1px] border-[#555555] sticky top-0 bg-[#fafafc] z-10"
 >
   <a class="grow font-[Pacifico] text-xl" href="/">lele</a>
-  <a
+  <!-- <a
     class="text-[14px] flex gap-3 items-center bg-[#555555] rounded-[3px] text-[#fafafc] px-2"
     href="{{ .Site.BaseURL }}/#content"
   >
     read
-  </a>
+  </a> -->
+  <input type="checkbox" id="menu-toggle" class="menu-toggle hidden" />
+  <label
+    class="menu-icon text-[14px] flex gap-3 items-center bg-[#555555] rounded-[3px] text-[#fafafc] px-2 cursor-pointer"
+    for="menu-toggle"
+    >read</label
+  >
+  <div
+    class="menu hidden fixed top-0 z-20 bg-[#fafafc] w-full window-width h-full pt-10 overflow-scroll"
+  >
+    <div class="menu-content flex flex-col">
+      <div class="">
+        <label for="menu-toggle" class="cursor-pointer flex justify-end"
+          >close</label
+        >
+        <div class="flex flex-col gap-3 pb-20">
+          {{ range .Site.Sections.ByWeight }}
+            <div class="pb-3">
+              <div
+                class="group hover:bg-[#BBC4FA] hover:text-[#fafafc] pt-4 pb-1"
+              >
+                <div class="font-light text-xs">
+                  chapter
+                  {{ .Params.chapter }}
+                </div>
+                <a class="flex " href="{{ .RelPermalink }}">
+                  <div class="grow_">
+                    {{ .Title }}
+                  </div>
+                </a>
+              </div>
+              {{ range .Pages.ByWeight }}
+                <div class="py-1 group hover:bg-[#BBC4FA]">
+                  <a
+                    class="flex text-xl font-semibold"
+                    href="{{ .RelPermalink }}"
+                  >
+                    <div class="group-hover:text-[#fafafc]">
+                      {{ .Title }}
+                      <img
+                        src="/image/arrow.svg"
+                        class="inline h-[1.5rem] self-end group-hover:animate-bounce bg-[#eeeef2]"
+                        alt=""
+                      />
+                    </div>
+                  </a>
+                </div>
+              {{ end }}
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
 </div>
