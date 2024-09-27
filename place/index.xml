@@ -1,26 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>🍱 place on lean learning</title>
+    <title>🍱 place and planning on lean learning</title>
     <link>https://kmltkc.de/leanlearning/place.html</link>
-    <description>Recent content in 🍱 place on lean learning</description>
+    <description>Recent content in 🍱 place and planning on lean learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Dec 2023 12:17:22 +0100</lastBuildDate>
     <atom:link href="https://kmltkc.de/leanlearning/place/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>place 1</title>
-      <link>https://kmltkc.de/leanlearning/place/place_1.html</link>
+      <title>lama&#43;n: a place to learn</title>
+      <link>https://kmltkc.de/leanlearning/place/10_laman_place_to_learn.html</link>
       <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
-      <guid>https://kmltkc.de/leanlearning/place/place_1.html</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>https://kmltkc.de/leanlearning/place/10_laman_place_to_learn.html</guid>
+      <description>After going through the mindset for learning, it&amp;rsquo;s now time to talk about the place to learn. A place where you can collect materials, plan your learning and actually learn. It can be fun and adventurous to research and adjust your learning system. But it also bears a trap. Constantly adjusting your learning system and searching for the perfect setup can get annoying and frustrating. You might spend more time looking for the perfect system than actually learning.</description>
     </item>
     <item>
-      <title>place 2</title>
-      <link>https://kmltkc.de/leanlearning/place/place_2.html</link>
+      <title>take time for learning</title>
+      <link>https://kmltkc.de/leanlearning/place/20_take_time_for_learning.html</link>
       <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
-      <guid>https://kmltkc.de/leanlearning/place/place_2.html</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>https://kmltkc.de/leanlearning/place/20_take_time_for_learning.html</guid>
+      <description>After having a place to learn, we now need to find the time to learn. Or more accurately, we have to take the time to learn. We may avoid learning by letting random tasks creep into our schedule. We might also hope that magically a time slot will appear in which we can learn. We don&amp;rsquo;t plan for it. We let it to chance. And finally, we get annoyed because we never find the time to learn.</description>
+    </item>
+    <item>
+      <title>how to plan your learning</title>
+      <link>https://kmltkc.de/leanlearning/place/30_how_to_plan_learning.html</link>
+      <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
+      <guid>https://kmltkc.de/leanlearning/place/30_how_to_plan_learning.html</guid>
+      <description>The problem with typical learning plans is that we often make a rigorous plan, we don&amp;rsquo;t define why we want to learn, what we want to learn and we don&amp;rsquo;t include any practice. This results in randomly learning a bit here and there, trying to transcribe and cram everything instead of understanding it. It often also results in giving up on learning alltogether.&#xA;But there might be an alternative to this standard way of planning.</description>
+    </item>
+    <item>
+      <title>scattered and shaped learning</title>
+      <link>https://kmltkc.de/leanlearning/place/40_scattered_vs_shaped_learning.html</link>
+      <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
+      <guid>https://kmltkc.de/leanlearning/place/40_scattered_vs_shaped_learning.html</guid>
+      <description>Up until now, we only discussed shaped/planned learning inside the LAMA+N system. The main idea here is to collect materials and assemble them into a learning unit. You can even shape multiple learnings and deliberately decide what to focus on and what to ignore.&#xA;Besides taking time to plan a whole learning, there are also moments in which you want to learn immediately. You stumble across an interesting article or video with intriguing insights.</description>
     </item>
   </channel>
 </rss>

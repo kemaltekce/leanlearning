@@ -9,11 +9,25 @@
     <lastBuildDate>Wed, 20 Dec 2023 12:17:22 +0100</lastBuildDate>
     <atom:link href="https://kmltkc.de/leanlearning/introduction/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>starting with why, how and what</title>
-      <link>https://kmltkc.de/leanlearning/introduction/introduction_1.html</link>
+      <title>why should I care?</title>
+      <link>https://kmltkc.de/leanlearning/introduction/10_why_should_i_care.html</link>
       <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
-      <guid>https://kmltkc.de/leanlearning/introduction/introduction_1.html</guid>
-      <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+      <guid>https://kmltkc.de/leanlearning/introduction/10_why_should_i_care.html</guid>
+      <description>Learning helps you expand your knowledge, follow your curiosities and adapt to new circumstances. But learning takes time and effort. During school and university, it was easier to learn. You had time. You had a curriculum to follow. You had deadlines for tests. Everything was prepared for you.&#xA;But it&amp;rsquo;s more difficult to learn while you are working or if you want to learn something new on the side.&#xA;The desire and curiosity to learn are there but you might only have limited time during the day.</description>
+    </item>
+    <item>
+      <title>what is the LeLe method?</title>
+      <link>https://kmltkc.de/leanlearning/introduction/20_what_is_lele.html</link>
+      <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
+      <guid>https://kmltkc.de/leanlearning/introduction/20_what_is_lele.html</guid>
+      <description>Learning can be annoying. There are too many interesting topics, it can get frustrating and you can fall into the trap of shallow learning - keeping yourself entertained without actually learning anything.&#xA;To solve this problem the LeLe method aims to make learning intentional, enjoyable and forgiving.&#xA;It makes learning intentional so that you can find the time to learn and focus on what you want to learn. Thereby, one goal is to constrain curiosities so that you are not dragged around from one interesting topic to the next.</description>
+    </item>
+    <item>
+      <title>inspiration for LeLe</title>
+      <link>https://kmltkc.de/leanlearning/introduction/30_inspiration_for_lele.html</link>
+      <pubDate>Wed, 20 Dec 2023 12:17:22 +0100</pubDate>
+      <guid>https://kmltkc.de/leanlearning/introduction/30_inspiration_for_lele.html</guid>
+      <description>The LeLe method is inspired by a variety of methods and people from the space of productivity and neuroscience. LeLe tries to combine those diverse ideas into one coherent learning framework.&#xA;So, special thanks go out to Ryan Carroll and Bullet Journal Method, Andrew Hubermann and the Hubermann Lab Podcast, Justin Sung and his insights into learning and Ryan Singer and his Shape Up method.&#xA;The Bullet Journal Method inspired the LeLe method to be intentional and less distracting.</description>
     </item>
   </channel>
 </rss>
