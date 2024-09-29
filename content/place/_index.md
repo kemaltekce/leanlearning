@@ -1,6 +1,6 @@
 ---
-title: 🍱 place
-weight: 10
-chapter: 1
+title: 🍱 place and planning
+weight: 20
+chapter: 2
 icon: 🍱
 ---

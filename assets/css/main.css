@@ -3,10 +3,11 @@
 @tailwind utilities;
 
 :root {
-  font-family: Roboto Mono;
+  /* font-family: Roboto Mono; */
+  font-family: Inter;
   line-height: 1.5;
   font-weight: 400;
-  color: #555555;
+  color: #333333;
   background-color: #fafafc;
   font-size: 16px;
   /* font-size: clamp(16px, 1.5vw, 15px); */
@@ -54,4 +55,35 @@ body:has(.menu-toggle:checked) {
 
 ::selection {
   background: #bbc4fa;
+}
+
+div.content p,
+div.content ul {
+  margin-bottom: 3rem;
+}
+
+div.content h2 {
+  font-weight: 500;
+  font-size: 1.5rem;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+div.content h3 {
+  font-weight: 500;
+  font-size: 1.25rem;
+  padding-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+div.content img {
+  max-width: 100%;
+  height: auto;
+  border: 3px solid #e7e7e7;
+  border-radius: 7px;
+  margin: 4rem auto;
+}
+
+div.content li::before {
+  content: '- ';
 }
