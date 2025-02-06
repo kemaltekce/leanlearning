@@ -5,9 +5,9 @@ draft: false
 weight: 30
 ---
 
-The LeLe method is inspired by a variety of methods and people from the space
-of productivity and neuroscience. LeLe tries to combine those diverse ideas
-into one coherent learning framework.
+The LeLe method is inspired by a variety of ideas and people from the space of
+productivity and neuroscience. LeLe tries to combine those diverse ideas into
+one coherent learning framework.
 
 So, special thanks go out to Ryan Carroll and Bullet Journal Method, Andrew
 Hubermann and the Hubermann Lab Podcast, Justin Sung and his insights into
@@ -19,8 +19,8 @@ distracting. It helps to constrain curiosities.
 The Hubermann Podcast provided insights into how learning happens
 neurochemically and which methods can support learning effectively.
 
-The learning techniques like mind mapping and higher-order learning are
-inspired by Justin Sung content.
+The learning techniques in LeLe, like mind mapping and higher-order learning,
+are inspired by Justin Sung's content.
 
 And finally, ideas from the Shape Up method help plan your learning.
 

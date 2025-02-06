@@ -5,11 +5,11 @@ draft: false
 weight: 50
 ---
 
-The goal of **priming** is to get an abstract and rough idea about a topic. A
-big picture overview. It has to be abstract. Ignore the details otherwise you
-will get lost in them.
+The goal of **priming** is to get an abstract and rough idea about a topic or
+concept. A big picture overview. It has to be abstract. Ignore the details
+otherwise you will get lost in them.
 
-The idea is to get your mind thinking, start having questions and awaken your
+The idea is to start thinking, start having questions and awaken your
 curiosity. The LeLe method allows you to prime by making a M.E.S.S. - map,
 explore, skim and self-explain.
 
@@ -28,8 +28,8 @@ big concepts might be connected together or contrasted against each other.
 ## explore and skim
 
 To get the relevant information, ideas and concepts you have to explore your
-materials. Skim them, make a list of most important concepts and map them into
-a mindmap.
+materials. Skim them, make a list of the most important concepts and map them
+into a mindmap.
 
 ## self explain
 
@@ -37,7 +37,7 @@ While skimming and mapping, it is important that you don't transcribe blindly.
 Try to make sense of it yourself. Explain what you are learning to yourself.
 Even if it is wrong at first.
 
-Try to answer the questions like:
+Try to answer questions like:
 
 - Why is it important?
 - Is it even important or can it be ignored for now?

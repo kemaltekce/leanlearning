@@ -5,9 +5,9 @@ draft: false
 weight: 20
 ---
 
-The foundational learning technique of LeLe is mind mapping. It is used in all
-three phases of learning - priming, studying and even practising if you are
-trying to learn information. But how do we mind map?
+The main learning technique of LeLe is mind mapping. It is used in all three
+learning phases - priming, studying and even practising if you are trying to
+learn information. But how do we mind map?
 
 ## define focus question
 
@@ -49,10 +49,12 @@ while mind mapping:
 
 Long chains or spokes of notes are often not meaningful enough to support your
 learning. The same is also true for notes that are too wordy or even
-transcribed. You have to take notes in your own words. Your mind map has to
-reflect your thinking. If it's too wordy, you might get lost in too many
-details. Try to make meaningful connections and group your notes together to
-refine your mind map. Try taking notes while self-explaining the content.
+transcribed. You have to take notes in your own words.
+
+Your mind map has to reflect your thinking. If it's too wordy, you might get
+lost in too many details. Try to make meaningful connections and group your
+notes together to refine your mind map. Try taking notes while self-explaining
+the content.
 
 ## the 4C rules of mind mapping
 
@@ -75,5 +77,5 @@ later when you need it.
 to refine and simplify it. Group similar information together to compress your
 notes. This will make your mind map cleaner and less cluttered.
 
-After learning more about mind mapping and the three phases of learning, it's
-time to combine both into iterative learning.
+After learning more about mind mapping and the three phases of learning (in the
+article before), it's time to combine both into iterative learning.

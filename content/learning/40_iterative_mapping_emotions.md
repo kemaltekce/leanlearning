@@ -14,11 +14,11 @@ it right.
 
 There are times when you are motivated and can jump right into learning. But
 there are also times of no motivation. It is difficult to sit down and start
-learning if you have no motivation.
+learning if you have no motivation at all.
 
 But don't depend on motivation. Just start small. Small enough so that almost
 no motivation is needed. After starting, your motivation will build up and you
-will continue learning. The beginning is the most difficult.
+will continue learning. The beginning is the most difficult part.
 
 But how can you start small if learning is this huge, complex activity which
 requires a lot of energy? The iterative approach can help with this. It can
@@ -39,13 +39,13 @@ While learning and working on your mind map, it can get overwhelming. If you
 feel overwhelmed, it can be a clue for a messy mind map. Which means a cleanup
 is needed.
 
-Group part of your mind map together to make it simpler. Refine and restructure
-your mind map if you think other connections make more sense now that you have
-more knowledge. Get rid of too fine details if they clutter your mind map. But
-don't just delete them. Create separate notes for them and link to them from
-your mind map.
+Group parts of your mind map together to make it simpler. Refine and
+restructure your mind map if you think other connections make more sense now
+that you have more knowledge. Get rid of too fine details if they clutter your
+mind map. But don't just delete them. Create separate notes for them and link
+to them from your mind map.
 
-Restructuring and simplifying will help overcome feeling overwhelmed.
+Restructuring and simplifying will help you overcome feeling overwhelmed.
 
 ## fear
 

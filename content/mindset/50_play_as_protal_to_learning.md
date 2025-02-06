@@ -19,15 +19,15 @@ anxious.
 Learning nowadays feels more like a drill. We are so goal-oriented that we just
 want a set of instructions, memorize them, and we are done. But learning is
 much more than that. Learning is nonlinear, recursive and excursive. Recursive
-meaning: you have to rethink, re-understanding and re-practice to find gaps and
-questions in your understanding. Excursive because your learning journey is not
-the same as someone else's. You have another set of preknowledge which helps or
-even hinders your understanding of new concepts.
+meaning: you have to rethink, re-understanding and re-practice to find and
+answer gaps and questions in your understanding. Excursive because your
+learning journey is not the same as someone else's. You have another set of
+preknowledge which helps or even hinders your understanding of new concepts.
 
 We should embrace play as a learning style and mindset again. Moving from
 seriousness and linearity towards playfulness and unconventional exploration.
 
-## why learning by playing?
+## why learn by playing?
 
 **Play can increase our focus.**  Once we start playing, nothing in the world
 can distract us or pull us away from it. We lose the sense of time and we are
@@ -44,7 +44,7 @@ until we master a skill. This repetitive practice despite frustration and
 confusion helps you to learn.
 
 Tapping into play for learning won’t happen with a set of given instructions.
-It is more a mindset rather than a hack which we have to develop. We have to
-repeatedly remind ourselves that a playful mindset is the key to learning; not
-a serious mindset where frustration drives us away from learning. Play can be a
-powerful portal to learning.
+It is more a mindset we have to develop rather than a hack which can be simply
+applied. We have to repeatedly remind ourselves that a playful mindset is the
+key to learning; not a serious mindset where frustration drives us away from
+learning. Play can be a powerful portal to learning.

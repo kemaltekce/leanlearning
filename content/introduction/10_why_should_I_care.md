@@ -10,18 +10,17 @@ new circumstances. But learning takes time and effort. During school and
 university, it was easier to learn. You had time. You had a curriculum to
 follow. You had deadlines for tests. Everything was prepared for you.
 
-But it's more difficult to learn while you are working or if you want to learn
-something new on the side.
+But it's more difficult to learn while you are working.
 
-The desire and curiosity to learn are there but you might only have limited
-time during the day.
+You might want to learn about philosophy after work. You might want to improve
+your communication and writing skills. Or, you might want to learn to code.
 
-You might also have different interests and topics you want to learn about.
-And, you can even find endless content for almost everything. But which
-interest, topic or content should you choose? How should you decide?
+The desire and curiosity to learn are there but between work, parenting or
+other responsibilities you only have limited time during the day.
 
-Is it a real curiosity or just a fake one? Is your ego tricking you to believe
-that you have to learn this specific topic?
+Additionally, you might also have different interests and topics you want to
+learn about. Your curiosity might be pulling you all over the place, which
+makes deciding and finding time even more difficult.
 
 Even if you find the time, the topic and the content to learn with, how are you
 going to actually learn? Which learning methods will support your learning the
@@ -38,3 +37,6 @@ Until it didn't.
 To overcome this hurdle of learning - finding time and content, constraining
 your curiosity, and making learning joyful and effective - I created the LeLe
 method. The lean learning method.
+
+The LeLe method is a guide on how to learn. It's also a toolkit full of
+techniques from which you can pick, adapt and use in your own learning process.

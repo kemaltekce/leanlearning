@@ -1,5 +1,5 @@
 ---
-title: 'methods to improve focus - time-based technique'
+title: 'method to improve focus - flexible timeboxing'
 date: 2023-12-20T15:08:17+01:00
 draft: false
 weight: 20
@@ -10,14 +10,15 @@ focusing. But our focus can be fragile and we can get easily distracted. Be it
 through external things like our phones or internal events like thoughts and
 feelings.
 
-Additionally, our focus depends on many variables. It depends on how we sleep
-at night, the time of day, what we eat, our emotional state, our stress level,
-our energy level, and so on. Focusing and keeping your focus can be difficult.
+Additionally, our focus depends on many variables. It depends on how we slept
+the night before, the time of day, what we eat, our emotional state, our stress
+level, our energy level, and so on. Focusing and keeping your focus can be
+difficult.
 
 Therefore, I tried many different techniques and strategies to improve my
 focus. Besides the most obvious one - getting rid of distractions - I arrived
 at five techniques that helped me the most. 1 time-based technique and 4
-mind-based techniques.
+mind-based techniques (mind-based techniques in the next article).
 
 Here is the time-based technique.
 
@@ -37,8 +38,8 @@ distractions, set a timer, and start focusing.
 
 The timer has multiple advantages. If your attention drifts away, which is
 quite normal, the timer serves as a reminder to refocus again. You can see the
-timer and reflect on if you should keep going and focus or if you are near the
-end, and taking a break would be fine.
+time and reflect on if you should keep going and focus or if it would be fine
+to take a break.
 
 At the end of the timer, you can even reflect if you want to focus for a bit
 longer or if you have to take a short break.
